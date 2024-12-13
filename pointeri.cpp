@@ -3,8 +3,6 @@
 
 int main()
 {
-	temaPointer7();
-	
-
+	apelaresumaPrimeCifreApelPrinAdresa();
 
 }
